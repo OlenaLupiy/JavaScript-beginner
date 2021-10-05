@@ -109,3 +109,4 @@ console.log(person[key])
 person.isProgrammer = true
 console.log(person)
 console.log(person.hasHusband);
+const a = 25;
